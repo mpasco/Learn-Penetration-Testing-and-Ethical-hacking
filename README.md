@@ -1,1 +1,1 @@
-# Learn-Penetration-Testing-and-hacking-
+Learning Resources For Penetration Testing and Ethical Hacking
